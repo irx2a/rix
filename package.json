@@ -1,0 +1,25 @@
+{
+  "name": "irx_work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irx2a/rix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irx2a/rix/issues"
+  },
+  "homepage": "https://github.com/irx2a/rix#readme",
+  "dependencies": {
+    "vue": "^1.0.20"
+  }
+}
